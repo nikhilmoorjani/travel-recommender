@@ -10,8 +10,10 @@ This is an application designed for people to share their travel experiences & r
 
 ## Preview
 
-![Travel Blog](https://github.com/nikhilmoorjani/travel-recommender/blob/master/img/preview/screen1.png)
-
+[![Travel Blog](https://github.com/nikhilmoorjani/travel-recommender/blob/master/img/preview/screen1.png)]
+[![Travel Blog](https://github.com/nikhilmoorjani/travel-recommender/blob/master/img/preview/screen2.png)]
+[![Travel Blog](https://github.com/nikhilmoorjani/travel-recommender/blob/master/img/preview/screen3.png)]
+[![Travel Blog](https://github.com/nikhilmoorjani/travel-recommender/blob/master/img/preview/screen4.png)]
 
 ## Status
 
