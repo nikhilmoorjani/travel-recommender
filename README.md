@@ -2,11 +2,16 @@
 
 [Freelancer](http://startbootstrap.com/template-overviews/freelancer/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, and a working PHP contact form.
 
+
+## About 
+
+This is an application designed for people to share their travel experiences & recommendations with friends and family. Preview can be found here: https://github.com/nikhilmoorjani/travel-recommender/tree/master/img/preview
+
+
 ## Preview
 
-[![Freelancer Preview](https://startbootstrap.com/assets/img/screenshots/themes/freelancer.png)](https://blackrockdigital.github.io/startbootstrap-freelancer/)
+![Travel Blog](https://github.com/nikhilmoorjani/travel-recommender/blob/master/img/preview/screen1.png)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-freelancer/)**
 
 ## Status
 
